@@ -1,0 +1,7 @@
+{
+  "name": "RagaMidi - AI Neural Vocal & Sitar Plugin",
+  "description": "A world-class AI-powered Indian classical raga composer featuring neural vocal synthesis (Kishore/Rafi models), Sitar lead generation, and DAW-ready MIDI exports.",
+  "requestFramePermissions": [
+    "microphone"
+  ]
+}
